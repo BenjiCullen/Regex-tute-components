@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Benjamin's regex components crash course
 
 Introductory paragraph (replace this with your text)
 
